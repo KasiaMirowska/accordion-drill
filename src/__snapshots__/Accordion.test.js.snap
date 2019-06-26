@@ -1,5 +1,15 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`Accordion component renders li empty given no section props 1`] = `
+<div>
+  <ul>
+    <h1>
+      Sections: 
+    </h1>
+  </ul>
+</div>
+`;
+
 exports[`Accordion component renders li empty given section props 1`] = `
 <div>
   <ul>
